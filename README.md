@@ -4,24 +4,14 @@
 
 ##  Arquitetura do sistema:
 
-### - 
+### - Ia disponibilizada da Amazon
 
-### - 
+### - API amazon comprehend
 
-### - 
 
 # Serviços e nuvem utilizados 
 
 ### - AWS [ https://aws.amazon.com/pt/ ]
 
-### -
+### - comprehend(NLP)
 
-### - 
-
-# implementação do algoritmo de análise de sentimento.
-
-### - 
-
-### - 
-
-### - 
