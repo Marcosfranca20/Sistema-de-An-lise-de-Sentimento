@@ -2,6 +2,8 @@
 
 ### Esse repositório foi criado para a atividade da matéria de programação paralela e distribuida:
 
+### Plataforma de codagem [https://colab.research.google.com]
+
 ##  Arquitetura do sistema:
 
 ### - Ia disponibilizada da Amazon
