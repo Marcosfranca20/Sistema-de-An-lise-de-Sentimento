@@ -17,3 +17,9 @@
 
 ### - comprehend(NLP)
 
+# Integrantes
+### Enzo Eluan
+### Vitor Flores
+### Bernardo Brandão
+### Marco França 
+### Alvaro Pimentel
